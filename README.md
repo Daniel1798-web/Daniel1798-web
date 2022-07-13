@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **danrieloto@gmail.com**
 
+- 📫 CV **https://www.docdroid.net/gegBq51/cvac-1-pdf**
+
 - ⚡ Fun fact **I love the Espeto of boquerones on the beach **
 
 <h3 align="left">Connect with me:</h3>
