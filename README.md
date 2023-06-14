@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DANIEL OTO</h1>
 <h3 align="center">Passionate JS and debugger</h3>
 
-- 🔭 I’m currently working on [Rick and Morty API](https://test2-psi-kohl.vercel.app/)
+- 🔭 I’m currently working on 360FundsFairway
 
 - 🌱 I’m currently learning **Angular, Express**
 
