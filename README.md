@@ -3,11 +3,13 @@
 
 - 🔭 I’m currently working on 360FundsFairway
 
-- 🌱 I’m currently learning **Angular, Express**
+- 🌱 I’m currently learning **AI**
 
 - 👨‍💻 All of my projects are available at [https://pre-delta.vercel.app/](https://pre-delta.vercel.app/)
 
-- 💬 Ask me about **Angular**
+- My last proyect : www.netia.com.ar
+
+- 💬 Ask me about **Angular, AI**
 
 - 📫 How to reach me **danrieloto@gmail.com**
 
