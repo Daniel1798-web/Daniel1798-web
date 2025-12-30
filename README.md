@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DANIEL OTO</h1>
 <h3 align="center">Passionate JS and debugger</h3>
 
-- 🔭 I’m currently working on 360FundsFairway
+- 🔭 I’m currently working on 360 Fund Insight Limited
 
 - 🌱 I’m currently learning **AI**
 
